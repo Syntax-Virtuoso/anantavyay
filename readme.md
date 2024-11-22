@@ -1,4 +1,4 @@
-![Logo](./website/assets/anantavyay-logo.png)
+<img src="website/assets/anantavyay-logo.png" align="center">
 <h1 align="center" style="color:orange;">अनन्तव्यय</h1>
 
 <h3 align="center" style="color:blue;">Where Boundless Meets Effortless</h3>
